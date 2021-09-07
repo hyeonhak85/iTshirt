@@ -5,3 +5,4 @@
 2. 문어
 3. lion
 4. rabbit
+5. tiger
