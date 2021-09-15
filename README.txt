@@ -6,3 +6,4 @@
 3. lion
 4. rabbit
 5. tiger
+6. Raccoon
